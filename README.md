@@ -1,12 +1,20 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**whj11200/whj11200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 😄 I’m name is Woohukjoe
-- ⚡ I’m  learning Javascript,Unity,GameStory
-- 📫 How to reach me? whj11200@naver.com
 
----->
+
+- 😄 I’m name is @whj11200
+- ✨ I’m  learning Javascript,Unity,GameStory
+- 🚀 How to reach me? whj11200@naver.com
+
+  
+<h3> My Study APP</h3>
+<b>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+  
