@@ -8,6 +8,4 @@ Here are some ideas to get you started:
 - 😄 I’m name is Woohukjoe
 - ⚡ I’m  learning Javascript,Unity,GameStory
 - 📫 How to reach me? whj11200@naver.com
-.
--->https://img.shields.io/badge/<LABEL>-<Unity>-<lightgrey>
- /github/gist/stars/:gistId
+
