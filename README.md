@@ -5,7 +5,7 @@
 
 
 - 😄 I’m name is @whj11200
-- ✨ I’m  learning Javascript,Unity,GameStory
+- ✨ I’m  learning C#,Unity,GameStory
 - 🚀 How to reach me? whj11200@naver.com
 
   
